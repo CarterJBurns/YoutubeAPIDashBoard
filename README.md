@@ -8,8 +8,8 @@ The YouTube Data Dashboard is an ongoing project designed to provide users with 
 
 Technologies:
 
-Python
-YouTube Data API
+Python, 
+YouTube Data API, 
 Matplotlib (for data visualization)
 
 Status: Work in Progress
